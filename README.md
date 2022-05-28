@@ -24,7 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pm&layout=compact)](https://github.com/andre-pm/github-readme-stats)
 </div>
 
-**Contatos:**
+**Contato:**
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/andre-pm/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Mail.Ru)](andre.pereira.martins100@gmail.com)
