@@ -1,5 +1,5 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, me chamo André
-
+<div align="center">
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá, me chamo André</h2>
 <table>
     <tr>
         <td>
@@ -19,8 +19,8 @@
 </table>
 
 **Stacks que uso:**
+  <br>
 
-<div align="center">
   <tr>
     <td>
         <a href="https://dart.dev/" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="35px" height="35px"></a>
