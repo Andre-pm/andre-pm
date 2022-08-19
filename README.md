@@ -1,29 +1,67 @@
-### Olá, me chamo André 👨🏻‍💻
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, me chamo André
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal de Santa Catarina (IFSC) <br>
-🎯 Focando no desenvolvimento mobile com framework Flutter
+<table>
+    <tr>
+        <td>
+            <p>📚 Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal de Santa Catarina (IFSC)</p>
+        <td>
+    </tr>
+    <tr>
+        <td>
+            <p>💼 Trabalhando com Desenvolvimento Mobile na Warren</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>🎯 Focando no desenvolvimento mobile com framework Flutter</p>
+        </td>
+    </tr>
+</table>
 
-**Algumas das linguagens e tecnolgias que uso:**
-
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=Oracle)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+**Stacks que uso:**
 
 <div align="center">
+  <tr>
+    <td>
+        <a href="https://dart.dev/" title="Dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" alt="Dart" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="35px" height="35px"></a>
+    </td>
+     <td>
+        <a href="https://www.java.com/pt-BR/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="35px" height="35px"></a>
+    </td>
+     <td>
+        <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="https://www.javascript.com/" title="Javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="https://www.oracle.com/br/database/technologies/appdev/sql.html" title="SQL Oracle"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" alt="SQL Oracle" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="https://www.oracle.com/br/database/technologies/appdev/sql.html" title="SQL Server"><img src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="SQL Server" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="35px" height="35px"></a>
+    </td>
+  </tr>
+  
+  <br><br>
+
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=andre-pm&&show_icons=true&theme=tokyonight"/>
-  </a>
+<img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtondvieira&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=andre-pm&&show_icons=true&theme=tokyonight"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-pm&layout=compact)](https://github.com/andre-pm/github-readme-stats)
+**Contato:**<br>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-pm/)
+
 </div>
-
-**Contato:**
-
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/andre-pm/)
