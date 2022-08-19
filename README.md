@@ -4,7 +4,7 @@
     <tr>
         <td>
             <p>📚 Estudante de Análise e Desenvolvimento de Sistemas - Instituto Federal de Santa Catarina (IFSC)</p>
-        <td>
+        </td>
     </tr>
     <tr>
         <td>
