@@ -11,11 +11,6 @@
             <p>💼 Trabalhando com Desenvolvimento Mobile na Warren</p>
         </td>
     </tr>
-    <tr>
-        <td>
-            <p>🎯 Focando no desenvolvimento mobile com framework Flutter</p>
-        </td>
-    </tr>
 </table>
 
 **Stacks que uso:**
@@ -27,6 +22,15 @@
     </td>
     <td>
         <a href="https://flutter.dev/" title="Flutter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="35px" height="35px"></a>
+    </td>
+    <td>
+        <a href="" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="35px" height="35px"></a>
+    </td>
+     <td>
+        <a href="" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="35px" height="35px"></a>
     </td>
      <td>
         <a href="https://www.java.com/pt-BR/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="35px" height="35px"></a>
@@ -43,15 +47,7 @@
     <td>
         <a href="https://www.oracle.com/br/database/technologies/appdev/sql.html" title="SQL Server"><img src="https://img.icons8.com/color/480/microsoft-sql-server.png" alt="SQL Server" width="35px" height="35px"></a>
     </td>
-    <td>
-        <a href="" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="35px" height="35px"></a>
-    </td>
-    <td>
-        <a href="" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="35px" height="35px"></a>
-    </td>
-     <td>
-        <a href="" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="35px" height="35px"></a>
-    </td>
+
   </tr>
   
   <br><br>
